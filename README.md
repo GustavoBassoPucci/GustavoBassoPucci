@@ -59,8 +59,6 @@
 
 <p align="center" style="color:#a0a0a0;">✨ Desvendando o poder dos dados, um insight por vez! ✨</p>
 
-A imagem do power bi nao aparece a imagem 
-
 <!--
 **GustavoBassoPucci/GustavoBassoPucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
